@@ -61,13 +61,13 @@ Data recovery from unallocated space, using forensic tools(Autospy) to extract a
 
 ## Output :
 ### Folder before deleting the files
-![](./images/f1.png)
+![Screenshot 2025-03-28 101902](https://github.com/user-attachments/assets/d5eb9d80-60dc-4239-bba6-5b117b78b3db)
 
 ### Folder after deleting the files
-![](./images/a9.png)
+![image](https://github.com/user-attachments/assets/abaac35a-d4af-4aa0-bc58-bc1ed2410b88)
 
 ### Folder after extracting the deleted images using autopsy
-![](./images/a10.png)
+![Screenshot 2025-03-28 094957](https://github.com/user-attachments/assets/2356604e-3a25-4c9a-a1f8-c62b4fc13c42)
 
 ## Result:
 Successfully extracted the deleted files from unallocated space using the Autospy tool.
